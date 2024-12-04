@@ -1,31 +1,19 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: alvarezrrj # Your GitHub organization or username, where this repository lives
+repo: dhamma-upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+  - name: Web pública
+    url: https://ar.dhamma.org
+  - name: Estudiantes antiguos
+    url: https://os.ar.dhamma.org
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  baseUrl: /dhamma-upptime
+  logoUrl: data:image/png;base64,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
+  name: Monitor Dhamma Arg
+  introTitle: "Monitor de estado para sitios web Dhamma Argentina."
+  # introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
       href: /
