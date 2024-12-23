@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.66%",
     "uptimeYear": "99.66%",
-    "time": 634,
-    "timeDay": 575,
-    "timeWeek": 655,
-    "timeMonth": 634,
-    "timeYear": 634,
+    "time": 633,
+    "timeDay": 632,
+    "timeWeek": 658,
+    "timeMonth": 633,
+    "timeYear": 633,
     "dailyMinutesDown": {
       "2024-12-08": 90
     }
@@ -25,18 +25,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/os.ar.dhamma.org.ico",
     "slug": "estudiantes-antiguos",
     "status": "up",
-    "uptime": "99.61%",
-    "uptimeDay": "99.10%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.61%",
-    "uptimeYear": "99.61%",
-    "time": 1730,
-    "timeDay": 6654,
-    "timeWeek": 2747,
-    "timeMonth": 1730,
-    "timeYear": 1730,
+    "uptime": "99.66%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.66%",
+    "uptimeYear": "99.66%",
+    "time": 1682,
+    "timeDay": 6738,
+    "timeWeek": 2719,
+    "timeMonth": 1682,
+    "timeYear": 1682,
     "dailyMinutesDown": {
-      "2024-12-22": 13,
       "2024-12-08": 90
     }
   }
