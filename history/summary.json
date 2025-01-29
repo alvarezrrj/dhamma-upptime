@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/ar.dhamma.org.ico",
     "slug": "web-publica",
     "status": "up",
-    "uptime": "99.88%",
+    "uptime": "99.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.88%",
-    "time": 632,
-    "timeDay": 891,
-    "timeWeek": 673,
-    "timeMonth": 651,
-    "timeYear": 632,
+    "uptimeYear": "99.89%",
+    "time": 634,
+    "timeDay": 736,
+    "timeWeek": 703,
+    "timeMonth": 649,
+    "timeYear": 634,
     "dailyMinutesDown": {
       "2024-12-08": 90
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
-    "time": 1144,
-    "timeDay": 904,
-    "timeWeek": 819,
-    "timeMonth": 783,
-    "timeYear": 1144,
+    "time": 1140,
+    "timeDay": 873,
+    "timeWeek": 832,
+    "timeMonth": 780,
+    "timeYear": 1140,
     "dailyMinutesDown": {
       "2024-12-08": 90
     }
