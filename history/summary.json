@@ -6,17 +6,17 @@
     "slug": "web-publica",
     "status": "up",
     "uptime": "99.62%",
-    "uptimeDay": "89.86%",
-    "uptimeWeek": "94.46%",
-    "uptimeMonth": "96.96%",
+    "uptimeDay": "92.43%",
+    "uptimeWeek": "94.61%",
+    "uptimeMonth": "97.03%",
     "uptimeYear": "99.51%",
     "time": 649,
-    "timeDay": 566,
-    "timeWeek": 528,
-    "timeMonth": 577,
+    "timeDay": 572,
+    "timeWeek": 527,
+    "timeMonth": 581,
     "timeYear": 649,
     "dailyMinutesDown": {
-      "2026-03-22": 129,
+      "2026-03-22": 114,
       "2026-03-21": 130,
       "2026-03-20": 73,
       "2026-03-19": 24,
@@ -57,7 +57,9 @@
       "2026-02-05": 55,
       "2026-02-04": 19,
       "2026-02-02": 16,
-      "2026-01-29": 20
+      "2026-01-29": 20,
+      "2026-01-28": 41,
+      "2026-01-27": 0
     }
   },
   {
@@ -67,17 +69,17 @@
     "slug": "estudiantes-antiguos",
     "status": "up",
     "uptime": "99.62%",
-    "uptimeDay": "89.86%",
-    "uptimeWeek": "94.46%",
-    "uptimeMonth": "96.96%",
+    "uptimeDay": "92.44%",
+    "uptimeWeek": "94.61%",
+    "uptimeMonth": "97.03%",
     "uptimeYear": "99.51%",
     "time": 688,
-    "timeDay": 891,
+    "timeDay": 950,
     "timeWeek": 672,
-    "timeMonth": 602,
+    "timeMonth": 604,
     "timeYear": 657,
     "dailyMinutesDown": {
-      "2026-03-22": 129,
+      "2026-03-22": 114,
       "2026-03-21": 130,
       "2026-03-20": 73,
       "2026-03-19": 24,
@@ -119,7 +121,7 @@
       "2026-02-04": 19,
       "2026-01-29": 20,
       "2026-01-28": 41,
-      "2026-01-27": 0
+      "2026-01-27": 19
     }
   }
 ]
