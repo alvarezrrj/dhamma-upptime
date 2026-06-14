@@ -5,13 +5,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/ar.dhamma.org.ico",
     "slug": "web-publica",
     "status": "down",
-    "uptime": "99.16%",
+    "uptime": "99.15%",
     "uptimeDay": "86.33%",
-    "uptimeWeek": "79.66%",
-    "uptimeMonth": "87.93%",
-    "uptimeYear": "98.71%",
+    "uptimeWeek": "79.14%",
+    "uptimeMonth": "87.81%",
+    "uptimeYear": "98.70%",
     "time": 643,
-    "timeDay": 438,
+    "timeDay": 472,
     "timeWeek": 744,
     "timeMonth": 623,
     "timeYear": 639,
@@ -61,7 +61,7 @@
       "2026-06-11": 359,
       "2026-06-12": 494,
       "2026-06-13": 208,
-      "2026-06-14": 0
+      "2026-06-14": 53
     }
   },
   {
@@ -72,11 +72,11 @@
     "status": "down",
     "uptime": "99.15%",
     "uptimeDay": "86.36%",
-    "uptimeWeek": "79.87%",
-    "uptimeMonth": "88.06%",
-    "uptimeYear": "98.71%",
+    "uptimeWeek": "79.35%",
+    "uptimeMonth": "87.94%",
+    "uptimeYear": "98.70%",
     "time": 692,
-    "timeDay": 607,
+    "timeDay": 628,
     "timeWeek": 981,
     "timeMonth": 881,
     "timeYear": 663,
@@ -125,7 +125,7 @@
       "2026-06-11": 359,
       "2026-06-12": 474,
       "2026-06-13": 208,
-      "2026-06-14": 0
+      "2026-06-14": 52
     }
   }
 ]
