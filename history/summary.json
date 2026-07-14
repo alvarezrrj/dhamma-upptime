@@ -4,15 +4,15 @@
     "url": "https://ar.dhamma.org",
     "icon": "https://icons.duckduckgo.com/ip3/ar.dhamma.org.ico",
     "slug": "web-publica",
-    "status": "down",
-    "uptime": "99.32%",
-    "uptimeDay": "82.20%",
-    "uptimeWeek": "87.33%",
-    "uptimeMonth": "86.79%",
-    "uptimeYear": "98.90%",
+    "status": "up",
+    "uptime": "99.31%",
+    "uptimeDay": "78.98%",
+    "uptimeWeek": "86.61%",
+    "uptimeMonth": "86.63%",
+    "uptimeYear": "98.89%",
     "time": 616,
-    "timeDay": 444,
-    "timeWeek": 677,
+    "timeDay": 415,
+    "timeWeek": 673,
     "timeMonth": 498,
     "timeYear": 612,
     "dailyMinutesDown": {
@@ -38,7 +38,7 @@
       "2026-07-11": 188,
       "2026-07-12": 109,
       "2026-07-13": 336,
-      "2026-07-14": 0
+      "2026-07-14": 73
     }
   },
   {
@@ -46,14 +46,14 @@
     "url": "https://os.ar.dhamma.org",
     "icon": "https://icons.duckduckgo.com/ip3/os.ar.dhamma.org.ico",
     "slug": "estudiantes-antiguos",
-    "status": "down",
-    "uptime": "99.32%",
-    "uptimeDay": "82.25%",
-    "uptimeWeek": "88.03%",
-    "uptimeMonth": "86.89%",
-    "uptimeYear": "98.91%",
+    "status": "up",
+    "uptime": "99.31%",
+    "uptimeDay": "79.02%",
+    "uptimeWeek": "87.31%",
+    "uptimeMonth": "86.72%",
+    "uptimeYear": "98.89%",
     "time": 699,
-    "timeDay": 793,
+    "timeDay": 753,
     "timeWeek": 805,
     "timeMonth": 813,
     "timeYear": 691,
@@ -80,7 +80,7 @@
       "2026-07-11": 189,
       "2026-07-12": 132,
       "2026-07-13": 336,
-      "2026-07-14": 0
+      "2026-07-14": 73
     }
   }
 ]
