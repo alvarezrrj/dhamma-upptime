@@ -1,7 +1,7 @@
 url: https://os.ar.dhamma.org
-status: up
-code: 200
-responseTime: 983
-lastUpdated: 2026-07-23T17:06:54.331Z
+status: degraded
+code: 415
+responseTime: 3255
+lastUpdated: 2026-07-23T19:57:23.215Z
 startTime: 2024-12-04T11:29:20.014Z
 generator: Upptime <https://github.com/upptime/upptime>
